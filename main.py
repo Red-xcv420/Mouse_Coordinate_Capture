@@ -12,7 +12,6 @@ Requirements:
 
 """
 
-
 # Import Pyautogui To Get Mouse
 import pyautogui
 
