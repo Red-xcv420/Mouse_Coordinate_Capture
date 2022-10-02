@@ -5,9 +5,9 @@ Example Setup
 ├── Folder
     └── Script.py
 ```
-```
-This Script Requires Dependencies
 
+This Script Requires Dependencies
+```
 Requirements:
 
     pip install pyautogui
@@ -21,5 +21,5 @@ Requirements:
 Sample Output: 
 
 ```
-![image](https://user-images.githubusercontent.com/88535395/193479875-f997f880-3a65-4342-958b-bcbb53bb51fe.png)
+![Output](https://user-images.githubusercontent.com/88535395/193479875-f997f880-3a65-4342-958b-bcbb53bb51fe.png)
 ```
